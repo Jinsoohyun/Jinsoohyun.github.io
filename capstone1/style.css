@@ -1,4 +1,4 @@
 @charset "utf-8";
 body { padding: 50px;}
-.product_view {position: relative;padding: 0 0 0 395px; width; 1000px; box-sizing: border-box;}
-.product_view .png {position: absolute; left; 0; top; 0;}
+div.product_view {position: relative;padding: 0 0 0 395px; width; 1000px; box-sizing: border-box;}
+div.product_view .png {position: absolute; left; 0; top; 0;}
